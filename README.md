@@ -1,7 +1,7 @@
 # Assesment
-<p> Here we have both the problems of the assesment </p>
+<p> Here we have both problems of the assesment </p>
 <h3>Problem1</h3>
-<p>As per the assesment this is a spring boot microservice to find the longest palindromic substring with specific urls for the stroing and retrieving the longest palindrome</p><br>
+<p>As per the assesment this is a spring boot microservice to find the longest palindromic substring with specific urls for the storing and retrieving the longest palindrome</p><br>
 <p><strong> Url to store: http://localhost:8080/add/longestpalindromes/{inputstring}</strong></p>
 <p>This URL is a post method and it finds the longest palindromic substring adds it to the database and returns the success message In case if the string already exists in the database than it returns a Bad request error.</p><br>
 
